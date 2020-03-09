@@ -1,5 +1,5 @@
 (TestText)  
-[TestText]  
+[TestText](Alt)
 __TestText__  
 [TestText]()  
 *_TestText_*  
